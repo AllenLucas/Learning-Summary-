@@ -1,7 +1,7 @@
 ###android中一些常用方法
 * 跑马灯效果
 * 在布局文件的TextView中添加如下代码
-	* ```javascript
+	 ```javascript
 android:singleLine="true"   
 android:ellipsize="marquee"   
 android:focusable="true"  
